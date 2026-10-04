@@ -1,0 +1,19 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[3]!./src/css/BuyAssestList.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+.DeleteCart-main{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+
+}
+.DeleteCart{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 100;
+    transform: translate(-50%,-50%);
+    width: 60vh;
+    height: 60vh;
+    background-color: red;
+}

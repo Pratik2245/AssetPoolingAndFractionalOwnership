@@ -1,0 +1,14 @@
+{
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/addwalletdetails/page": "app/addwalletdetails/page.js",
+  "/portfolios/page": "app/portfolios/page.js",
+  "/api/login/route": "app/api/login/route.js",
+  "/dashboard/portfolios/page": "app/dashboard/portfolios/page.js",
+  "/api/portfolio/orgPortfolio/route": "app/api/portfolio/orgPortfolio/route.js",
+  "/dashboard/Portfolio/createportfolio/page": "app/dashboard/Portfolio/createportfolio/page.js",
+  "/api/portfolio/createportfolio/route": "app/api/portfolio/createportfolio/route.js",
+  "/api/user/profile/route": "app/api/user/profile/route.js",
+  "/api/portfolio/TopPortfolio/route": "app/api/portfolio/TopPortfolio/route.js",
+  "/api/portfolio/AllPortfolio/route": "app/api/portfolio/AllPortfolio/route.js"
+}
